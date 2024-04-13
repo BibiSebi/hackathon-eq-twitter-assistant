@@ -9,7 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/cache": "^11.11.0",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
     "@huggingface/inference": "^2.6.7",
+    "@mui/material": "^5.15.15",
+    "@mui/material-nextjs": "^5.15.11",
+    "@mui/x-charts": "^7.2.0",
+    "d3-cloud": "^1.2.7",
     "next": "14.2.1",
     "react": "^18",
     "react-dom": "^18"
