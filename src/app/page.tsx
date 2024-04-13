@@ -3,7 +3,10 @@ export default function Home() {
     <main className="flex min-h-screen">
       <section className="flex flex-col border border-red-100 flex-1 px-14 py-32">
         <h1 className="text-3xl font-bold">Title</h1>
-        <p>some random text</p>
+        <p>
+          Input your text to assess its emotional intelligence. Our AI will
+          analyze how readers might emotionally respond to your text.
+        </p>
         <div className="col-span-full">
           <label
             htmlFor="text"
