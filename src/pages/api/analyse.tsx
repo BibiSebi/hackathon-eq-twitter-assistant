@@ -62,13 +62,13 @@ const hateSpeechDetected = (
 
 const feedback: { [key: string]: string } = {
   anger:
-    "Try to express your anger constructively. Propose a solution or discuss the issue calmly to better resolve conflicts.",
+    "Brace for harsh criticism and negativity. Consider rephrasing your message to be more constructive and respectful.",
   anticipation:
     "Your sense of anticipation is contagious! Ensure your message invites others to share in your excitement.",
   disgust:
     "It's important to remain respectful even when expressing dislike. Consider using more neutral language.",
   fear: "Sharing fears can be powerful but also alarming. Balance your message with reassurance or seek support constructively.",
-  joy: "Your joyful expression is wonderful! Consider sharing what specifically brings you joy to engage your audience even more.",
+  joy: "I predict this post will make many people's days! Keep spreading joy and positivity. 🌟",
   love: "Expressing love is positive and uplifting. Make sure your message is inclusive to foster a welcoming environment.",
   optimism:
     "Your optimism is inspiring! Encourage others by highlighting actionable steps or positive outcomes.",

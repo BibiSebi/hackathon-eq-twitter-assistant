@@ -4,7 +4,7 @@ import { BarChart } from "@mui/x-charts/BarChart";
 const chartSetting = {
   xAxis: [
     {
-      label: "Likelyhood in %",
+      label: "Likelihood in %",
       max: 1,
     },
   ],
